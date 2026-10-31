@@ -1,0 +1,7 @@
+check,value
+Original rows,1224
+Final rows,1200
+Duplicate rows removed,24
+Missing hub information,0
+Missing delivery hours,0
+Missing values in modelling features,0

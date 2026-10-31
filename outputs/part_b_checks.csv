@@ -1,0 +1,10 @@
+metric,value
+Total rows,1200
+Feature count,17
+Training rows,840
+Validation rows,180
+Test rows,180
+Scaled training mean absolute value,1.8124313130295272e-16
+Selected model,Linear Regression
+Selected tree depth,6
+Selected GB learning rate,0.1

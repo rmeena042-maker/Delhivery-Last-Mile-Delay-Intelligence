@@ -1,0 +1,5 @@
+hub_id,hub_tier,expected_segment,segment,delay_rate
+HUB07,1,Standard,Watch,0.14
+HUB13,2,Watch,Escalate,0.46
+HUB15,2,Watch,Escalate,0.36
+HUB22,3,Escalate,Watch,0.2

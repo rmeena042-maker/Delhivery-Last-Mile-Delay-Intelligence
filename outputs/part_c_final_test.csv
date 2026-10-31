@@ -1,0 +1,2 @@
+model,TN,FP,FN,TP,accuracy,precision,recall,F1,threshold
+default_forest_same_7_features,125,14,10,31,0.8666666666666667,0.6888888888888889,0.7560975609756098,0.7209302325581395,0.5

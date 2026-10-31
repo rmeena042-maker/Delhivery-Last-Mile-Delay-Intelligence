@@ -1,0 +1,8 @@
+feature
+promised_hours
+distance_km
+n_stops
+rain_flag
+sale_event_flag
+hub_tier
+hub_daily_capacity

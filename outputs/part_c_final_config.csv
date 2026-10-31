@@ -1,0 +1,15 @@
+setting,value
+total_rows,1200
+feature_count,17
+selected_feature_count,7
+selected_features,"promised_hours, distance_km, n_stops, rain_flag, sale_event_flag, hub_tier, hub_daily_capacity"
+train_rows,840
+validation_rows,180
+test_rows,180
+train_delayed,195
+validation_delayed,42
+test_delayed,41
+selected_tree_depth,6
+selected_model,default_forest_same_7_features
+validation_F1,0.8333333333333334
+alert_threshold,0.5
